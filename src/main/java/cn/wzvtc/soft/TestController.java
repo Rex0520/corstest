@@ -51,7 +51,6 @@ public class TestController {
         }
 
         if("计算机编程基础".equals(name)){
-
             return 4;
         }else {
             return 2;
